@@ -1,14 +1,19 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Anglais-Gratuit.org
+title: Anglais-Gratuit | Un blog pour apprendre l'anglais gratuitement
+description: Anglais-Gratuit est basé sur Jekflix  .
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
+  - vocabulaire
+  - grammaire
+  - expressions
+  - vidéos
+  - cours
+  - podcasts
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +24,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: toto@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
