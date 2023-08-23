@@ -31,7 +31,6 @@ disqus_username: disqus_username
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
-
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
@@ -41,22 +40,19 @@ instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
 
-
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 
-
 # Advanced Settings
 baseurl: "anglais-gratuit-flix" # the subpath of your site, e.g. /blog
-url: "https://hecmec.github.io/anglais-gratuit-flix" # the base hostname & protocol for your site
+url: "https://hecmec.github.io/anglais-gratuit-flix/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "fr"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
 
 # Build settings
 markdown: kramdown
