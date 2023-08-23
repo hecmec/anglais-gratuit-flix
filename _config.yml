@@ -50,8 +50,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "anglais-gratuit-flix" # the subpath of your site, e.g. /blog
-url: "https://hecmec.github.io/anglais-gratuit-flix" # the base hostname & protocol for your site
+baseurl: "/anglais-gratuit-flix" # the subpath of your site, e.g. /blog
+url: "https://hecmec.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "fr"
 categories_folder: category
