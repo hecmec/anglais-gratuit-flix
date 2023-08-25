@@ -3,123 +3,43 @@
   
   
     {
-      "title"    : "Welcome to the desert of the real",
-      "tags"     : "welcome and blog",
-      "categories" : "blog",
-      "url"      : "/anglais-gratuit-flix/welcome-to-the-desert-of-the-real/",
-      "date"     : "05/17/2019"
+      "title"    : "Exercices de grammaire en anglais - Les pluriels.",
+      "tags"     : "grammaire and exercices",
+      "categories" : "exercices-grammaire",
+      "url"      : "/anglais-gratuit-flix/exercices-grammaire-les-pluriels/",
+      "date"     : "07/12/2023"
     } ,
   
     {
-      "title"    : "Why books should be your priority?",
-      "tags"     : "books and read",
-      "categories" : "life",
-      "url"      : "/anglais-gratuit-flix/why-books-should-be-your-priority/",
-      "date"     : "11/22/2018"
+      "title"    : "List des cours d&#39;anglais en ligne",
+      "tags"     : "cours-en-ligne and exercices",
+      "categories" : "cours-en-ligne",
+      "url"      : "/anglais-gratuit-flix/liste-cours-d-anglais/",
+      "date"     : "06/26/2023"
     } ,
   
     {
-      "title"    : "The quick brown fox jumps over a lazy dog",
-      "tags"     : "css and tips",
-      "categories" : "css",
-      "url"      : "/anglais-gratuit-flix/the-quick-brown-fox-jumps-over-a-lazy-dog/",
-      "date"     : "10/09/2018"
+      "title"    : "Exercices de vocabulaire en anglais - Au restaurant.",
+      "tags"     : "vocabulaire and exercices",
+      "categories" : "exercices-vocabulaire",
+      "url"      : "/anglais-gratuit-flix/exercices-vocabulaire-restaurant/",
+      "date"     : "06/23/2023"
     } ,
   
     {
-      "title"    : "A wonderful serenity has taken possession of my entire soul",
-      "tags"     : "platform, javascript, and vscode",
-      "categories" : "code",
-      "url"      : "/anglais-gratuit-flix/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/",
-      "date"     : "07/20/2018"
+      "title"    : "Exercices de vocabulaire en anglais - Se présenter.",
+      "tags"     : "vocabulaire and exercices",
+      "categories" : "exercices-vocabulaire",
+      "url"      : "/anglais-gratuit-flix/exercices-vocabulaire-presentation/",
+      "date"     : "06/20/2023"
     } ,
   
     {
-      "title"    : "Candy, candies, candy!",
-      "tags"     : "food and tips",
-      "categories" : "diet",
-      "url"      : "/anglais-gratuit-flix/candy-candies-candy/",
-      "date"     : "04/21/2018"
-    } ,
-  
-    {
-      "title"    : "Trust me, it will work",
-      "tags"     : "languages and tips",
-      "categories" : "tips",
-      "url"      : "/anglais-gratuit-flix/trust-me-it-will-work/",
-      "date"     : "03/12/2018"
-    } ,
-  
-    {
-      "title"    : "How to turn your dog into a Jedi master",
-      "tags"     : "jedi, doggo, and starwars",
-      "categories" : "tutorial",
-      "url"      : "/anglais-gratuit-flix/how-to-turn-your-dog-into-a-jedi-master/",
-      "date"     : "02/03/2018"
-    } ,
-  
-    {
-      "title"    : "Let flexbox work for you or perish",
-      "tags"     : "css and frontend",
-      "categories" : "css",
-      "url"      : "/anglais-gratuit-flix/let-flexbox-work-for-you-or-perish/",
-      "date"     : "08/15/2017"
-    } ,
-  
-    {
-      "title"    : "A star has fallen from the sky and the cat ate it",
-      "tags"     : "crazy and story",
-      "categories" : "music",
-      "url"      : "/anglais-gratuit-flix/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/",
-      "date"     : "08/08/2017"
-    } ,
-  
-    {
-      "title"    : "Smoke alert",
-      "tags"     : "jekyll, wordpress, and blog",
-      "categories" : "blog",
-      "url"      : "/anglais-gratuit-flix/smoke-alert/",
-      "date"     : "07/29/2017"
-    } ,
-  
-    {
-      "title"    : "Do you believe that a spider can dance?",
-      "tags"     : "fate and travel",
-      "categories" : "travel",
-      "url"      : "/anglais-gratuit-flix/do-you-believe-that-a-spider-can-dance/",
-      "date"     : "06/08/2017"
-    } ,
-  
-    {
-      "title"    : "A cook cries in the rain at night",
-      "tags"     : "cook, cucine, and story",
-      "categories" : "diet",
-      "url"      : "/anglais-gratuit-flix/a-cook-cries-in-the-rain-at-night/",
-      "date"     : "06/04/2017"
-    } ,
-  
-    {
-      "title"    : "Grab your band and get out",
-      "tags"     : "music, band, and passion",
-      "categories" : "music",
-      "url"      : "/anglais-gratuit-flix/grab-your-band-and-get-out/",
-      "date"     : "05/11/2017"
-    } ,
-  
-    {
-      "title"    : "Passion is dangerous, go for it!",
-      "tags"     : "work and career",
-      "categories" : "work",
-      "url"      : "/anglais-gratuit-flix/passion-is-dangerous-go-for-it/",
-      "date"     : "09/06/2015"
-    } ,
-  
-    {
-      "title"    : "Birds can fly, but this you knew already",
-      "tags"     : "life and tips",
-      "categories" : "life",
-      "url"      : "/anglais-gratuit-flix/birds-can-fly-but-this-you-knew-already/",
-      "date"     : "09/10/2010"
+      "title"    : "Exercices de grammaire en anglais - Le Genitif.",
+      "tags"     : "grammaire and exercices",
+      "categories" : "exercices-grammaire",
+      "url"      : "/anglais-gratuit-flix/exercices-grammaire-genitif-what/",
+      "date"     : "06/16/2023"
     } 
   
 ]

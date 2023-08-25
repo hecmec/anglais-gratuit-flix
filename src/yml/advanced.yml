@@ -1,5 +1,12 @@
+# local deployment
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site
+
+# github pages
 baseurl: "/anglais-gratuit-flix" # the subpath of your site, e.g. /blog
 url: "https://hecmec.github.io" # the base hostname & protocol for your site
+
+# common
 google_analytics: "UA-XXXXXXXX-X"
 language: "fr"
 categories_folder: category

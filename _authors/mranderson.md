@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/mranderson.jpg
 name: mranderson
 display_name: Mr. Anderson
 position: The One
@@ -12,4 +12,3 @@ instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
 ---
-

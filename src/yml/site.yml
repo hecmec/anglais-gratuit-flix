@@ -3,20 +3,28 @@ title: Anglais-Gratuit | Un blog pour apprendre l'anglais gratuitement
 description: Anglais-Gratuit est basé sur Jekflix  .
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - anglais
+  - gratuit
+  - cours
+  - liste
+  - exercices
+  - quiz
   - vocabulaire
   - grammaire
   - expressions
   - vidéos
-  - cours
+  - livres
   - podcasts
 show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Vocabulaire
+    url: /vocabulaire
+  - title: Grammaire
+    url: /grammaire
+  - title: Expressions
+    url: /expressions
   - title: About
     url: /about
   - title: Contact
