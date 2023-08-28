@@ -23,9 +23,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     <div class="item">
       <h2 class="name">
         {% if author.photo %}
-        <img class="img-rounded" style="width:100px" src="{{ author.photo }}" alt="{{ author.display_name }}">
+        <img class="img-rounded" style="width:100px" src="{{ site.baseurl }}{{ author.photo }}" alt="{{ author.display_name }}">
         {% else %}
-        <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
+        <img class="img-rounded" src="{{ site.baseurl }}/assets/img/user.jpg" alt="{{ author.display_name }}">
        {% endif %}
 
         <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
