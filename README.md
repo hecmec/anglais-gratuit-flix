@@ -12,6 +12,7 @@
 - `bundle exec jekyll build`
 
 See the [demo here](https://jekflix.rossener.com/).
+Go to [Code here](https://github.com/thiagorossener/jekflix-template)
 
 ## What is it?
 

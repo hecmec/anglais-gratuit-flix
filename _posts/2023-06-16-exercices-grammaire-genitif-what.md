@@ -4,8 +4,8 @@ layout: post
 title: Exercices de grammaire en anglais - Le Genitif.
 subtitle: Le Genitif en anglais c'est du gataux.
 description: Une longue descriptions
-image: {{ site.baseurl }}/assets/img/uploads/passion_leads_us_760x400.jpg
-optimized_image: {{ site.baseurl }}/assets/img/uploads/passion_leads_us_380x200.jpg
+image: /assets/img/uploads/passion_leads_us_760x400.jpg
+optimized_image: /assets/img/uploads/passion_leads_us_380x200.jpg
 category: exercices-grammaire
 tags:
   - grammaire
