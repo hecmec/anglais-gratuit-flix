@@ -58,6 +58,14 @@
         </url>
     
         <url>
+            <loc>https://hecmec.github.io/anglais-gratuit-flix/category/exercices-vocabulaire/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
             <loc>https://hecmec.github.io/anglais-gratuit-flix/expressions/</loc>
             
                 <changefreq>monthly</changefreq>
